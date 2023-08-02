@@ -1,10 +1,14 @@
 {
   "name": "@jmarellanocreation/sys-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "System API for Dashboard",
   "main": "index.js",
   "scripts": {
     "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarellanocreation/sys-api.git"
   },
   "keywords": [
     "system"
